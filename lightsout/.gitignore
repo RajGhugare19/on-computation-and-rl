@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+MUJOCO_LOG.txt
+*checkpoints/
+*videos/
+*wandb/
+ml4rl/
+tmp/
+results/
+*.out
